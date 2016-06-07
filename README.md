@@ -4,5 +4,5 @@ Minecraft plugin that allows you to set yourself or another player to be able to
 Are you ever mining deep below the world? Do you not have torches? Fear not! This plugin allows you to see in the dark.
 
 Permissions:
-  •fullbright.self
-  •fullbright.others
+  \n•fullbright.self
+  \n•fullbright.others
