@@ -1,0 +1,8 @@
+name: Fullbright
+main: me.RyanStewart.Fullbright.Main
+version: 0.1
+commands:
+  fullbright:
+    description: Toggles fullbright on and off.
+    usage: /fullbright [player]
+    aliases: fb
