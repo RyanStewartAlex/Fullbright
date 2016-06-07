@@ -6,5 +6,4 @@ Are you ever mining deep below the world? Do you not have torches? Fear not! Thi
 Permissions:
   
   •fullbright.self
-  
   •fullbright.others
